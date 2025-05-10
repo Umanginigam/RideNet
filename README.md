@@ -55,5 +55,6 @@ https://github.com/user-attachments/assets/30654c14-ae21-42e1-9579-02163c8365ef
 
 ### 1. Clone the Repo
 git clone https://github.com/umanginigam/RideNet.git
+
 cd RideNet
 
